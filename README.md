@@ -1,2 +1,2 @@
 # WebScraperDSN
-WebScraper try1
+WebScraper - pierwotnie miała być wersja z ceneo, ale ceneo uznało mnie za bota, stąd wersja zastępcza
